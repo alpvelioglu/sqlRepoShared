@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.Mains>
+<dbo.Mains MainID="1" Description="World of Football Championships" Desc_Paragraph="Official European Organization" Box1="Information1" Box2="Information2" Box3="Information3" ImageUrl1="/courses-master/assets/img/logo/logo.png" ImageUrl2="/courses-master/assets/img/logo/logo.png" ImageUrl3="/courses-master/assets/img/hero/wof3.jpg" SectionDesc1="General Idea of WCS" SectionDesc2="SuperLeague Description" SectionDesc3="We'll play weekly cup every week" />
+</table_dbo.Mains>
+</Data>

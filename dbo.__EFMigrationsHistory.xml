@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.__EFMigrationsHistory>
+<dbo.__EFMigrationsHistory MigrationId="20230226084447_mig1" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230226095242_homepageaddition" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230228154947_playertest" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230301073926_improvedteam" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230301081403_playerattfixed" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230301094703_onetomanytest" ProductVersion="7.0.3" />
+<dbo.__EFMigrationsHistory MigrationId="20230302141320_weeklycupview" ProductVersion="7.0.3" />
+</table_dbo.__EFMigrationsHistory>
+</Data>

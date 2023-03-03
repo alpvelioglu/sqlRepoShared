@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.Teams>
+<dbo.Teams TeamID="1" Name="Green Winden" Initial="GW2" Logo="sss" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+<dbo.Teams TeamID="3" Name="SAINTS" Initial="ST" Logo="ssd" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+<dbo.Teams TeamID="4" Name="Stripe Nova" Initial="S9" Logo="sdsad" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+<dbo.Teams TeamID="6" Name="NATA" Initial="N" Logo="asdf" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+<dbo.Teams TeamID="7" Name="Besiktas" Initial="BJK" Logo="kartal" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+<dbo.Teams TeamID="8" Name="Fenerbahce" Initial="FB" Logo="saf" Points="0" Draw="0" GoalDifference="0" GoalsAgainst="0" GoalsFor="0" Lose="0" PlayedMatches="0" Win="0" />
+</table_dbo.Teams>
+</Data>

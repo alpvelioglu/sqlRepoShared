@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.Players>
+<dbo.Players PlayerID="2" Name="Alphiletti" Goals="0" Assists="0" PlayedMatches="0" TeamID="1" />
+<dbo.Players PlayerID="4" Name="Mouble" Goals="0" Assists="0" PlayedMatches="0" TeamID="3" />
+<dbo.Players PlayerID="5" Name="Cleverley" Goals="0" Assists="0" PlayedMatches="0" TeamID="1" />
+<dbo.Players PlayerID="6" Name="Rapalo" Goals="0" Assists="2" PlayedMatches="0" TeamID="4" />
+<dbo.Players PlayerID="7" Name="smalk" Goals="1" Assists="0" PlayedMatches="0" TeamID="4" />
+<dbo.Players PlayerID="8" Name="nak" Goals="0" Assists="0" PlayedMatches="0" TeamID="6" />
+<dbo.Players PlayerID="9" Name="Neike" Goals="3" Assists="0" PlayedMatches="0" TeamID="4" />
+<dbo.Players PlayerID="10" Name="N'koudou" Goals="0" Assists="0" PlayedMatches="0" TeamID="7" />
+<dbo.Players PlayerID="12" Name="UmutMeraş" Goals="0" Assists="0" PlayedMatches="0" TeamID="3" />
+<dbo.Players PlayerID="13" Name="EnnerValencia" Goals="0" Assists="0" PlayedMatches="0" TeamID="8" />
+</table_dbo.Players>
+</Data>
