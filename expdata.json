@@ -1,0 +1,84 @@
+[{"dbo.__EFMigrationsHistory":
+[{"MigrationId":"20230226084447_mig1","ProductVersion":"7.0.3"},
+{"MigrationId":"20230226095242_homepageaddition","ProductVersion":"7.0.3"},
+{"MigrationId":"20230228154947_playertest","ProductVersion":"7.0.3"},
+{"MigrationId":"20230301073926_improvedteam","ProductVersion":"7.0.3"},
+{"MigrationId":"20230301081403_playerattfixed","ProductVersion":"7.0.3"},
+{"MigrationId":"20230301094703_onetomanytest","ProductVersion":"7.0.3"},
+{"MigrationId":"20230302141320_weeklycupview","ProductVersion":"7.0.3"}]
+},
+{
+"dbo.Contacts":
+[]
+},
+{
+"dbo.Mains":
+[{"MainID":1,"Description":"World of Football Championships","Desc_Paragraph":"Official European Organization","Box1":"Information1","Box2":"Information2","Box3":"Information3","ImageUrl1":"/courses-master/assets/img/logo/logo.png","ImageUrl2":"/courses-master/assets/img/logo/logo.png","ImageUrl3":"/courses-master/assets/img/hero/wof3.jpg","SectionDesc1":"General Idea of WCS","SectionDesc2":"SuperLeague Description","SectionDesc3":"We'll play weekly cup every week"}]
+},
+{
+"dbo.Matches":
+[{"MatchID":1,"HomeTeam":"Green Winden","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":2,"HomeTeam":"Stripe Nova","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":3,"HomeTeam":"NATA","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":4,"HomeTeam":"Green Winden","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":5,"HomeTeam":"NATA","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":6,"HomeTeam":"Besiktas","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":7,"HomeTeam":"Green Winden","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":8,"HomeTeam":"Besiktas","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":9,"HomeTeam":"Fenerbahce","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":10,"HomeTeam":"Green Winden","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":11,"HomeTeam":"Fenerbahce","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":12,"HomeTeam":"SAINTS","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":13,"HomeTeam":"Green Winden","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":14,"HomeTeam":"SAINTS","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":15,"HomeTeam":"Stripe Nova","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":16,"HomeTeam":"Green Winden","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":17,"HomeTeam":"Stripe Nova","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":18,"HomeTeam":"NATA","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":19,"HomeTeam":"Green Winden","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":20,"HomeTeam":"NATA","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":21,"HomeTeam":"Besiktas","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":22,"HomeTeam":"Green Winden","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":23,"HomeTeam":"Besiktas","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":24,"HomeTeam":"Fenerbahce","AwayTeam":"SAINTS","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":25,"HomeTeam":"Green Winden","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":26,"HomeTeam":"Fenerbahce","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":27,"HomeTeam":"SAINTS","AwayTeam":"Stripe Nova","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":28,"HomeTeam":"Green Winden","AwayTeam":"Fenerbahce","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":29,"HomeTeam":"SAINTS","AwayTeam":"Besiktas","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0},
+{"MatchID":30,"HomeTeam":"Stripe Nova","AwayTeam":"NATA","Date":"1.01.0001 00:00:00","HomeScore":0,"AwayScore":0}]
+},
+{
+"dbo.Players":
+[{"PlayerID":2,"Name":"Alphiletti","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":1},
+{"PlayerID":4,"Name":"Mouble","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":3},
+{"PlayerID":5,"Name":"Cleverley","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":1},
+{"PlayerID":6,"Name":"Rapalo","Goals":0,"Assists":2,"PlayedMatches":0,"TeamID":4},
+{"PlayerID":7,"Name":"smalk","Goals":1,"Assists":0,"PlayedMatches":0,"TeamID":4},
+{"PlayerID":8,"Name":"nak","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":6},
+{"PlayerID":9,"Name":"Neike","Goals":3,"Assists":0,"PlayedMatches":0,"TeamID":4},
+{"PlayerID":10,"Name":"N'koudou","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":7},
+{"PlayerID":12,"Name":"UmutMeraþ","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":3},
+{"PlayerID":13,"Name":"EnnerValencia","Goals":0,"Assists":0,"PlayedMatches":0,"TeamID":8}]
+},
+{
+"dbo.Rules":
+[]
+},
+{
+"dbo.SuperLeagues":
+[]
+},
+{
+"dbo.Teams":
+[{"TeamID":1,"Name":"Green Winden","Initial":"GW2","Logo":"sss","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0},
+{"TeamID":3,"Name":"SAINTS","Initial":"ST","Logo":"ssd","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0},
+{"TeamID":4,"Name":"Stripe Nova","Initial":"S9","Logo":"sdsad","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0},
+{"TeamID":6,"Name":"NATA","Initial":"N","Logo":"asdf","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0},
+{"TeamID":7,"Name":"Besiktas","Initial":"BJK","Logo":"kartal","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0},
+{"TeamID":8,"Name":"Fenerbahce","Initial":"FB","Logo":"saf","Points":0,"Draw":0,"GoalDifference":0,"GoalsAgainst":0,"GoalsFor":0,"Lose":0,"PlayedMatches":0,"Win":0}]
+},
+{
+"dbo.WeeklyCups":
+[{"WeeklyCupID":1,"ChallongeURL":"https://challonge.com/ihhjmhb6/module"}]
+}]
